@@ -59,6 +59,7 @@
       <workItem from="1600666516184" duration="2021000" />
       <workItem from="1600668549726" duration="840000" />
       <workItem from="1600669400206" duration="605000" />
+      <workItem from="1600773791120" duration="4085000" />
     </task>
     <servers />
   </component>
@@ -66,13 +67,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="757" y="309" key="#Web_Browsers" timestamp="1600776345308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="309" key="#Web_Browsers/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1600776345308" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777519874">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1600777519874" />
     <state x="736" y="432" key="ComposerInitDialogKey" timestamp="1600666631812">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="736" y="432" key="ComposerInitDialogKey/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1600666631812" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1600668850145">
+    <state x="730" y="243" key="NewPhpClassDialog" timestamp="1600774407387">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1600668850145" />
+    <state x="730" y="243" key="NewPhpClassDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1600774407387" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1600775663245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1600775663245" />
   </component>
 </project>

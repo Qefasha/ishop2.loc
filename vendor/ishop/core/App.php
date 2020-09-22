@@ -6,11 +6,12 @@ class App{
 
     public static $app;
 
-    public function__construct() {
+    public function __construct() {
         $query = trim($_SERVER['QUERY_STRING'], '/');
         session_start();
-        self::$app = Registry:instance();
+        self::$app = Registry::instance();
         $this->getParams();
+        new ErrorHandler();
     }
 
     protected function getParams(){

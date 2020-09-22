@@ -2,6 +2,8 @@
 
 require_once dirname(__DIR__) . '/config/init.php';
 require_once LIBS . '/function.php';
+
 new\ishop\App();
 
-debug(\ishop\App::$app->getProperties());
+throw new Exception('Старница не найдена', 404);
+
