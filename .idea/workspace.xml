@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1c1aa6e-d949-4875-b3ef-4fc789d69f1f" name="Default Changelist" comment="Создание: Класс обработка ошибок.">
-      <change afterPath="$PROJECT_DIR$/config/routes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/Router.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/App.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/App.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/Router.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,7 @@
       <workItem from="1600773791120" duration="4085000" />
       <workItem from="1600777894607" duration="176000" />
       <workItem from="1601027464584" duration="901000" />
-      <workItem from="1601028381529" duration="1243000" />
+      <workItem from="1601028381529" duration="2545000" />
     </task>
     <task id="LOCAL-00001" summary="Создание: Класс обработка ошибок.">
       <created>1600777984814</created>

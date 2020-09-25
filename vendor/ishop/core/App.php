@@ -12,6 +12,7 @@ class App{
         self::$app = Registry::instance();
         $this->getParams();
         new ErrorHandler();
+        Router::dispatch($query); //передаем маршрутизатору запрошенный адрессссссссссссс
     }
 
     protected function getParams(){

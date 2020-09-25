@@ -20,8 +20,19 @@ class Router
         return self::$routes;
     }
 
-    public static function getRoute()
-    {
+    public static function getRoute(){
         return self::$route;
     }
+
+    public static function dispatch($url){             // вызывает matchRoute($url) (вернет либо есть, либо нет) Либо вызывает соотв контроллер или вызывает ошибку 404
+        if(self::matchRoute($url)) {                   // создаем условие для matchRoute
+            echo 'OK';
+        }else{
+            echo 'NO';
+        }
+    }
+
+    public static function matchRoute($url) {          // ищет соответстиве в таблице маршрутов
+    }
+
 }
